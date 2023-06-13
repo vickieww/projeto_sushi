@@ -1,2 +1,2 @@
 # projeto_sushi
-Criado para levar o usuário até os prints de tela do nosso projeto de solução para o restaurante japonês
+Criado para apresentar ao professor nossa solução do problema de um restaurante japonês.
