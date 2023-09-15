@@ -1,16 +1,16 @@
 # Projeto Restaurante Japonês
 ## Índice
 
-[Introdução](https://github.com/vickieww/projeto_sushi#introdu%C3%A7%C3%A3o) 
-[Descrição](https://github.com/vickieww/projeto_sushi#descri%C3%A7%C3%A3o) 
-[Descoberta](https://github.com/vickieww/projeto_sushi#-descoberta) 
-[Validação](https://github.com/vickieww/projeto_sushi#valida%C3%A7%C3%A3o) 
-[Pesquisa](https://github.com/vickieww/projeto_sushi#pesquisa) 
-[Prototipação](https://github.com/vickieww/projeto_sushi#prototipa%C3%A7%C3%A3o) 
-[Pitch](https://github.com/vickieww/projeto_sushi#pitch) 
-[Tecnologias Utilizadas](https://github.com/vickieww/projeto_sushi#tecnologias-utilizadas) 
-[Fontes Consultadas](https://github.com/vickieww/projeto_sushi#fontes-consultadas) 
-[Autores](https://github.com/vickieww/projeto_sushi#autores)
+[Introdução](https://github.com/vickieww/projeto_sushi#introdu%C3%A7%C3%A3o)  
+[Descrição](https://github.com/vickieww/projeto_sushi#descri%C3%A7%C3%A3o)  
+[Descoberta](https://github.com/vickieww/projeto_sushi#-descoberta)  
+[Validação](https://github.com/vickieww/projeto_sushi#valida%C3%A7%C3%A3o)  
+[Pesquisa](https://github.com/vickieww/projeto_sushi#pesquisa)  
+[Prototipação](https://github.com/vickieww/projeto_sushi#prototipa%C3%A7%C3%A3o)  
+[Pitch](https://github.com/vickieww/projeto_sushi#pitch)  
+[Tecnologias Utilizadas](https://github.com/vickieww/projeto_sushi#tecnologias-utilizadas)  
+[Fontes Consultadas](https://github.com/vickieww/projeto_sushi#fontes-consultadas)  
+[Autores](https://github.com/vickieww/projeto_sushi#autores)  
 
 
 ## Introdução 
@@ -22,9 +22,7 @@ Nas aulas propostas realizamos todo o processo de descoberta, pesquisa e os dema
 
 
 
-![gif](telaPesquisa.gif)
-
-### 🎡 Descoberta:
+### 🚀Descoberta:
 
 
 Em sala de aula, um desafio fora apresentado: Um restaurante japonês está com problemas para anotar e realizar a entrega dos pedidos de seus clientes. Como podemos criar uma solução tecnológica para esse estabelecimento? 
@@ -39,27 +37,30 @@ Após a definição do problema, foram realizadas discussões entre os membros d
 
 - 'Garçons:' diminuiríamos o número de atendentes no local, os deixando disponíveis apenas para a entrega dos pedidos nas mesas e para auxiliar clientes que possuem algum impedimento ou que prefiram ser atendidos pessoalmente. 
 
-### Validação 
+### 📄Validação 
 
 Ao terminarmos o processo de descoberta e definição, realizamos uma pesquisa de insatisfação com o atendimento em restaurantes/estabelecimentos para que o problema e a solução fossem validados. 
 
-![gif](telaPesquisa.gif) 
+![gif](imagPes/telaPesquisa.gif) 
 
 Após a validação ser finalizada, partimos para a pesquisa de preços e orçamento. 
 
-### Pesquisa 
+### 📋Pesquisa 
 
 Em seguida, consultamos os preços de sites de hospedagem, mão de obra, manutenção e valor da que cobraríamos pela aplicação. 
 
-### Prototipação 
+### 🖇️Prototipação 
 
 Começamos um modelo de tela simples, utilizando o programa Miro, que consiste em 6 telas onde se vê o cliente realizando seu pedido:  
+
+![img](imagPes/telaPro.png)  
 
 ### Pitch 
 
 Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos slides e demonstrando os custos-benefícios da nossa aplicação. 
+![img](imagPes/telaPitch.gif)
 
-## Tecnologias Utilizadas 
+## 🛠️Tecnologias Utilizadas 
 
 - 'CSS'
 - 'HTML'
@@ -68,7 +69,7 @@ Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos sl
 - 'MIRO'
 - 'MICROSOFT FORMS'
 
-## Fontes Consultadas
+## 📌Fontes Consultadas
 
 [Scuadra: 5 apps de gestão de restaurante](https://www.scuadra.com.br/blog/5-apps-de-gestao-para-restaurante-que-voce-precisa-conhecer/) 
 
@@ -76,14 +77,14 @@ Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos sl
 
 [Cia Websites: quanto custa um site](https://www.ciawebsites.com.br/sites/quanto-custa-um-site/#:~:text=A%20cria%C3%A7%C3%A3o%20de%20um%20site,esses%20valores%20nos%20t%C3%B3picos%20anteriores.) 
 
-## Autores 
+## ✒️Autores 
 
-Ana Paula 
+Ana Paula  
+[Acesse o GitHub](https://github.com/anapaulacd)  
 
-[Acesse o GitHub](https://github.com/anapaulacd)
+Lara Assunção   
 
-Lara Assunção 
-
-Vitória Gabrieli
-
-Orientador Leonardo Rocha
+Vitória Gabrieli  
+[Acesse o GitHub](https://github.com/vickieww)  
+Orientador Leonardo Rocha  
+[Acesse o GitHub](https://github.com/LeonardoRochaMarista)
