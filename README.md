@@ -77,6 +77,8 @@ Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos sl
 
 Ana Paula 
 
+[Acesse o GitHub](https://github.com/anapaulacd)
+
 Lara Assunção 
 
 Vitória Gabrieli
