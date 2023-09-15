@@ -29,11 +29,11 @@ Em sala de aula, um desafio fora apresentado: Um restaurante japonês está com 
 
 Após a definição do problema, foram realizadas discussões entre os membros do projeto para descobrir uma possível solução utilizando a tecnologia. Fizemos um brainstorm e decidimos as bases da aplicação que poderiam ser adaptadas futuramente no caso de novas descobertas e ideias: 
 
-- 'Cardápio Digital:' nosso cardápio seria acessado pela internet. 
+- ``Cardápio Digital:`` nosso cardápio seria acessado pela internet. 
 
-- 'Comandas:' as comandas seriam entregues logo na entrada do restaurante e possuiriam um QR Code e Link. 
+- ``Comandas:`` as comandas seriam entregues logo na entrada do restaurante e possuiriam um QR Code e Link. 
 
-- 'QR Code e link:' disponibilizaríamos um QR Code e um link aos nossos clientes para que eles pudessem realizar seus pedidos sozinhos pelo cardápio digital. 
+- ``QR Code e link:`` disponibilizaríamos um QR Code e um link aos nossos clientes para que eles pudessem realizar seus pedidos sozinhos pelo cardápio digital. 
 
 - 'Garçons:' diminuiríamos o número de atendentes no local, os deixando disponíveis apenas para a entrega dos pedidos nas mesas e para auxiliar clientes que possuem algum impedimento ou que prefiram ser atendidos pessoalmente. 
 
