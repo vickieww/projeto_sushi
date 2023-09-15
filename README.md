@@ -74,7 +74,7 @@ Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos sl
 - 'MIRO'
 - 'MICROSOFT FORMS'
 
-  ## Fontes Consultadas
+## Fontes Consultadas
 
 [Scuadra: 5 apps de gestão de restaurante](https://www.scuadra.com.br/blog/5-apps-de-gestao-para-restaurante-que-voce-precisa-conhecer/) 
 
