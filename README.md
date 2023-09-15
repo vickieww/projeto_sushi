@@ -43,3 +43,27 @@ Começamos um modelo de tela simples, utilizando o programa Miro, que consiste e
 
 Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos slides e demonstrando os custos-benefícios da nossa aplicação. 
 
+## Tecnologias Utilizadas 
+
+- 'CSS'
+- 'HTML'
+- 'VSCODE'
+- 'CANVA'
+- 'MIRO'
+- 'MICROSOFT FORMS'
+
+  ## Fontes Consultadas
+
+[Scuadra: 5 apps de gestão de restaurante](https://www.scuadra.com.br/blog/5-apps-de-gestao-para-restaurante-que-voce-precisa-conhecer/) 
+
+[Deli: pesquisa de orçamento](https://deli.com.br/pt-br/criar-uma-conta/?device=m&utm_term=programa%20para%20restaurante&utm_campaign=FUDO_BR_SEARCH_General&utm_source=adwords&utm_medium=ppc&hsa_acc=1925680188&hsa_cam=17567554209&hsa_grp=137872578853&hsa_ad=641670479464&hsa_src=g&hsa_tgt=kwd-306025781&hsa_kw=programa%20para%20restaurante&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad=1&gclid=CjwKCAjw3oqoBhAjEiwA_UaLttNTsC8ZMWB-9alEBS-FyByz6UEdi08_8OEy-KxjjZlX8RLMkkwP2hoC89IQAvD_BwE) 
+
+[Cia Websites: quanto custa um site](https://www.ciawebsites.com.br/sites/quanto-custa-um-site/#:~:text=A%20cria%C3%A7%C3%A3o%20de%20um%20site,esses%20valores%20nos%20t%C3%B3picos%20anteriores.) 
+
+## Autores 
+
+Ana Paula 
+
+Lara Assunção 
+
+Vitória Gabrieli
