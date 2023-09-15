@@ -35,7 +35,7 @@ Após a definição do problema, foram realizadas discussões entre os membros d
 
 - ``QR Code e link:`` disponibilizaríamos um QR Code e um link aos nossos clientes para que eles pudessem realizar seus pedidos sozinhos pelo cardápio digital. 
 
-- 'Garçons:' diminuiríamos o número de atendentes no local, os deixando disponíveis apenas para a entrega dos pedidos nas mesas e para auxiliar clientes que possuem algum impedimento ou que prefiram ser atendidos pessoalmente. 
+- ``Garçons:`` diminuiríamos o número de atendentes no local, os deixando disponíveis apenas para a entrega dos pedidos nas mesas e para auxiliar clientes que possuem algum impedimento ou que prefiram ser atendidos pessoalmente. 
 
 ### 📄Validação 
 
