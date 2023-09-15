@@ -55,7 +55,7 @@ Começamos um modelo de tela simples, utilizando o programa Miro, que consiste e
 
 ![img](imagPes/telaPro.png)  
 
-### Pitch 
+### 🎁Pitch 
 
 Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos slides e demonstrando os custos-benefícios da nossa aplicação. 
 ![img](imagPes/telaPitch.gif)
