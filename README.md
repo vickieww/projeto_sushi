@@ -1,4 +1,26 @@
 # Projeto Restaurante Japonês
+## Índice
+
+[Introdução](https://github.com/vickieww/projeto_sushi#introdu%C3%A7%C3%A3o) 
+
+[Descrição](https://github.com/vickieww/projeto_sushi#descri%C3%A7%C3%A3o) 
+
+[Descoberta](https://github.com/vickieww/projeto_sushi#-descoberta) 
+
+[Validação](https://github.com/vickieww/projeto_sushi#valida%C3%A7%C3%A3o) 
+
+[Pesquisa](https://github.com/vickieww/projeto_sushi#pesquisa) 
+
+[Prototipação](https://github.com/vickieww/projeto_sushi#prototipa%C3%A7%C3%A3o) 
+
+[Pitch](https://github.com/vickieww/projeto_sushi#pitch) 
+
+[Tecnologias Utilizadas](https://github.com/vickieww/projeto_sushi#tecnologias-utilizadas) 
+
+[Fontes Consultadas](https://github.com/vickieww/projeto_sushi#fontes-consultadas) 
+
+[Autores](https://github.com/vickieww/projeto_sushi#autores)
+
 
 ## Introdução 
 Criado para levar o usuário até os prints de tela da solução encontrada para o problema relacionado às vendas do restaurante japonês. Todo o projeto foi criado durante as aulas de Programação Web I com a supervisão do Orientador Leonardo Rocha. Para a realização do projeto, foi utilizado o método Zero to Hero como forma de descoberta, prototipação e criação de soluções, assim como o método Design Thinking para os mesmos fins.
