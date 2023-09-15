@@ -9,11 +9,10 @@ Nas aulas propostas realizamos todo o processo de descoberta, pesquisa e os dema
 
 ### Descoberta  
 
-## Pesquisa
 
 ![imagPes](telaPesquisa.gif)
 
-###🎡 Descoberta: Em sala de aula, um desafio fora apresentado: Um restaurante japonês está com problemas para anotar e realizar a entrega dos pedidos de seus clientes. Como podemos criar uma solução tecnológica para esse estabelecimento? 
+### 🎡 Descoberta: Em sala de aula, um desafio fora apresentado: Um restaurante japonês está com problemas para anotar e realizar a entrega dos pedidos de seus clientes. Como podemos criar uma solução tecnológica para esse estabelecimento? 
 
 Após a definição do problema, foram realizadas discussões entre os membros do projeto para descobrir uma possível solução utilizando a tecnologia. Fizemos um brainstorm e decidimos as bases da aplicação que poderiam ser adaptadas futuramente no caso de novas descobertas e ideias: 
 
@@ -25,7 +24,7 @@ Após a definição do problema, foram realizadas discussões entre os membros d
 
 - 'Garçons:' diminuiríamos o número de atendentes no local, os deixando disponíveis apenas para a entrega dos pedidos nas mesas e para auxiliar clientes que possuem algum impedimento ou que prefiram ser atendidos pessoalmente. 
 
-###Validação 
+### Validação 
 
 Ao terminarmos o processo de descoberta e definição, realizamos uma pesquisa de insatisfação com o atendimento em restaurantes/estabelecimentos para que o problema e a solução fossem validados. 
 
@@ -33,15 +32,15 @@ Ao terminarmos o processo de descoberta e definição, realizamos uma pesquisa d
 
 Após a validação ser finalizada, partimos para a pesquisa de preços e orçamento. 
 
-###Pesquisa 
+### Pesquisa 
 
 Em seguida, consultamos os preços de sites de hospedagem, mão de obra, manutenção e valor da que cobraríamos pela aplicação. 
 
-###Prototipação 
+### Prototipação 
 
 Começamos um modelo de tela simples, utilizando o programa Miro, que consiste em 6 telas onde se vê o cliente realizando seu pedido:  
 
-###Pitch 
+### Pitch 
 
 Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos slides e demonstrando os custos-benefícios da nossa aplicação. 
 
