@@ -2,23 +2,14 @@
 ## Índice
 
 [Introdução](https://github.com/vickieww/projeto_sushi#introdu%C3%A7%C3%A3o) 
-
 [Descrição](https://github.com/vickieww/projeto_sushi#descri%C3%A7%C3%A3o) 
-
 [Descoberta](https://github.com/vickieww/projeto_sushi#-descoberta) 
-
 [Validação](https://github.com/vickieww/projeto_sushi#valida%C3%A7%C3%A3o) 
-
 [Pesquisa](https://github.com/vickieww/projeto_sushi#pesquisa) 
-
 [Prototipação](https://github.com/vickieww/projeto_sushi#prototipa%C3%A7%C3%A3o) 
-
 [Pitch](https://github.com/vickieww/projeto_sushi#pitch) 
-
 [Tecnologias Utilizadas](https://github.com/vickieww/projeto_sushi#tecnologias-utilizadas) 
-
 [Fontes Consultadas](https://github.com/vickieww/projeto_sushi#fontes-consultadas) 
-
 [Autores](https://github.com/vickieww/projeto_sushi#autores)
 
 
