@@ -11,5 +11,5 @@ Nas aulas propostas realizamos todo o processo de descoberta, pesquisa e os dema
 
 ## Pesquisa
 
-![imagPes](telaPesquisa.gif)
+![gif](telaPesquisa.gif)
 
