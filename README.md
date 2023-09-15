@@ -7,12 +7,11 @@ Criado para levar o usuário até os prints de tela da solução encontrada para
 
 Nas aulas propostas realizamos todo o processo de descoberta, pesquisa e os demais passos do processo Zero to Hero. Segue a seguir a documentação dos processos realizados:  
 
-### Descoberta  
 
 
-![imagPes](telaPesquisa.gif)
+### 🎡 Descoberta:
 
-### 🎡 Descoberta: Em sala de aula, um desafio fora apresentado: Um restaurante japonês está com problemas para anotar e realizar a entrega dos pedidos de seus clientes. Como podemos criar uma solução tecnológica para esse estabelecimento? 
+Em sala de aula, um desafio fora apresentado: Um restaurante japonês está com problemas para anotar e realizar a entrega dos pedidos de seus clientes. Como podemos criar uma solução tecnológica para esse estabelecimento? 
 
 Após a definição do problema, foram realizadas discussões entre os membros do projeto para descobrir uma possível solução utilizando a tecnologia. Fizemos um brainstorm e decidimos as bases da aplicação que poderiam ser adaptadas futuramente no caso de novas descobertas e ideias: 
 
