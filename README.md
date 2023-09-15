@@ -62,8 +62,8 @@ Em seguida montamos a apresentação e o pitch, colocando todas as etapas nos sl
 
 ## 🛠️Tecnologias Utilizadas 
 
-- 'CSS'
-- 'HTML'
+- 'CSS 3'
+- 'HTML 5'
 - 'VSCODE'
 - 'CANVA'
 - 'MIRO'
